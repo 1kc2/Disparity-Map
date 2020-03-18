@@ -18,4 +18,4 @@ These can be passed as arguments like so `./disparity left.png right.png` to gen
 
 * `clang` with C++11 support
 
-* `opencv`
+* `opencv4`
